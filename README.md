@@ -1,4 +1,4 @@
-#🎬 Movie Recommendation System
+#Movie Recommendation System
 A comprehensive movie recommendation system built with Python that leverages machine learning algorithms to suggest personalized movies to users. 
 The system features data preprocessing, multiple ML algorithms, and an interactive web interface powered by Streamlit.
 ##🌟 Features
